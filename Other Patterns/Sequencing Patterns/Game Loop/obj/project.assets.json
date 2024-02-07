@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CSharp\\Game Loop\\Game Loop.csproj",
+      "projectUniqueName": "D:\\CSharp\\DesignPatterns\\Other Patterns\\Sequencing Patterns\\Game Loop\\Game Loop.csproj",
       "projectName": "Game Loop",
-      "projectPath": "D:\\CSharp\\Game Loop\\Game Loop.csproj",
+      "projectPath": "D:\\CSharp\\DesignPatterns\\Other Patterns\\Sequencing Patterns\\Game Loop\\Game Loop.csproj",
       "packagesPath": "C:\\Users\\phamh\\.nuget\\packages\\",
-      "outputPath": "D:\\CSharp\\Game Loop\\obj\\",
+      "outputPath": "D:\\CSharp\\DesignPatterns\\Other Patterns\\Sequencing Patterns\\Game Loop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\phamh\\AppData\\Roaming\\NuGet\\NuGet.Config"

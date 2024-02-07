@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p03QPLWtkdTwqJ2RVLB1DAqiy+zZaKC7DsQl7WcMN2GjrRuqqrCAHZTTYHGjBLC73q17ydMN9ayWp9aNcwR46Q==",
+  "dgSpecHash": "R2DpAC1WEdPo1ToXIlnlSrcMeuieFNEPDL5R8jZkyBOPxqjdaJn7zVFV6tF23IQ+SdG7OGZK7AdnxryACfntSA==",
   "success": true,
-  "projectFilePath": "D:\\CSharp\\Game Loop\\Game Loop.csproj",
+  "projectFilePath": "D:\\CSharp\\DesignPatterns\\Other Patterns\\Sequencing Patterns\\Game Loop\\Game Loop.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
