@@ -12,12 +12,10 @@ class BufferGetter
     {
         if (useDoubleBuffer)
         {
-            // You need an instance of Program to access the scene field
             scene.DoubleBufferDraw();
         }
         else
         {
-            // You need an instance of Program to access the scene field
             scene.Draw();
         }
     }
