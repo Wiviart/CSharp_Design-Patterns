@@ -1,0 +1,14 @@
+D:\CSharp\DesignPatterns\Creational Patterns\Example\obj\Debug\net7.0\Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\DesignPatterns\Creational Patterns\Example\obj\Debug\net7.0\Example.AssemblyInfoInputs.cache
+D:\CSharp\DesignPatterns\Creational Patterns\Example\obj\Debug\net7.0\Example.AssemblyInfo.cs
+D:\CSharp\DesignPatterns\Creational Patterns\Example\obj\Debug\net7.0\Example.csproj.CoreCompileInputs.cache
+D:\CSharp\DesignPatterns\Creational Patterns\Example\bin\Debug\net7.0\Example.exe
+D:\CSharp\DesignPatterns\Creational Patterns\Example\bin\Debug\net7.0\Example.deps.json
+D:\CSharp\DesignPatterns\Creational Patterns\Example\bin\Debug\net7.0\Example.runtimeconfig.json
+D:\CSharp\DesignPatterns\Creational Patterns\Example\bin\Debug\net7.0\Example.dll
+D:\CSharp\DesignPatterns\Creational Patterns\Example\bin\Debug\net7.0\Example.pdb
+D:\CSharp\DesignPatterns\Creational Patterns\Example\obj\Debug\net7.0\Example.dll
+D:\CSharp\DesignPatterns\Creational Patterns\Example\obj\Debug\net7.0\refint\Example.dll
+D:\CSharp\DesignPatterns\Creational Patterns\Example\obj\Debug\net7.0\Example.pdb
+D:\CSharp\DesignPatterns\Creational Patterns\Example\obj\Debug\net7.0\Example.genruntimeconfig.cache
+D:\CSharp\DesignPatterns\Creational Patterns\Example\obj\Debug\net7.0\ref\Example.dll
