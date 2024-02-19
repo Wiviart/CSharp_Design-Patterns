@@ -1,0 +1,1 @@
+﻿MazeSingleton.Instance.Enter();
