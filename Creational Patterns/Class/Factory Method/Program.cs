@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿MazeGame game = new BombedMazeGame();
+Maze maze = game.CreateMaze();
+
+maze.Enter();
