@@ -1,23 +1,24 @@
 class MazeGame
 {
-    public Maze CreateMaze(MazeFactory factory)
+    public Maze CreateMaze(Maze maze, Room room, Door door, Wall wall)
     {
-        Maze aMaze = factory.MakeMaze();
-        Room r1 = factory.MakeRoom(1);
-        Room r2 = factory.MakeRoom(2);
-        Door theDoor = factory.MakeDoor(r1, r2);
+        Maze aMaze = maze.Clone();
+        Room r1 = room.Clone();
+        Room r2 = room.Clone();
+        Door theDoor = door.Clone();
+        theDoor.Initialize(r1, r2);
 
         aMaze.AddRoom(r1);
         aMaze.AddRoom(r2);
 
-        r1.SetSide(Direction.North, factory.MakeWall());
+        r1.SetSide(Direction.North, wall.Clone());
         r1.SetSide(Direction.East, theDoor);
-        r1.SetSide(Direction.South, factory.MakeWall());
-        r1.SetSide(Direction.West, factory.MakeWall());
+        r1.SetSide(Direction.South, wall.Clone());
+        r1.SetSide(Direction.West, wall.Clone());
 
-        r2.SetSide(Direction.North, factory.MakeWall());
-        r2.SetSide(Direction.East, factory.MakeWall());
-        r2.SetSide(Direction.South, factory.MakeWall());
+        r2.SetSide(Direction.North, wall.Clone());
+        r2.SetSide(Direction.East, wall.Clone());
+        r2.SetSide(Direction.South, wall.Clone());
         r2.SetSide(Direction.West, theDoor);
 
         return aMaze;
