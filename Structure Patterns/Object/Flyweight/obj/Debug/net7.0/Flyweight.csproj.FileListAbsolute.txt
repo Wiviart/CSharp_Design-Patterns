@@ -1,0 +1,14 @@
+D:\CSharp\DesignPatterns\Structure Patterns\Object\Flyweight\bin\Debug\net7.0\Flyweight.exe
+D:\CSharp\DesignPatterns\Structure Patterns\Object\Flyweight\bin\Debug\net7.0\Flyweight.deps.json
+D:\CSharp\DesignPatterns\Structure Patterns\Object\Flyweight\bin\Debug\net7.0\Flyweight.runtimeconfig.json
+D:\CSharp\DesignPatterns\Structure Patterns\Object\Flyweight\bin\Debug\net7.0\Flyweight.dll
+D:\CSharp\DesignPatterns\Structure Patterns\Object\Flyweight\bin\Debug\net7.0\Flyweight.pdb
+D:\CSharp\DesignPatterns\Structure Patterns\Object\Flyweight\obj\Debug\net7.0\Flyweight.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\DesignPatterns\Structure Patterns\Object\Flyweight\obj\Debug\net7.0\Flyweight.AssemblyInfoInputs.cache
+D:\CSharp\DesignPatterns\Structure Patterns\Object\Flyweight\obj\Debug\net7.0\Flyweight.AssemblyInfo.cs
+D:\CSharp\DesignPatterns\Structure Patterns\Object\Flyweight\obj\Debug\net7.0\Flyweight.csproj.CoreCompileInputs.cache
+D:\CSharp\DesignPatterns\Structure Patterns\Object\Flyweight\obj\Debug\net7.0\Flyweight.dll
+D:\CSharp\DesignPatterns\Structure Patterns\Object\Flyweight\obj\Debug\net7.0\refint\Flyweight.dll
+D:\CSharp\DesignPatterns\Structure Patterns\Object\Flyweight\obj\Debug\net7.0\Flyweight.pdb
+D:\CSharp\DesignPatterns\Structure Patterns\Object\Flyweight\obj\Debug\net7.0\Flyweight.genruntimeconfig.cache
+D:\CSharp\DesignPatterns\Structure Patterns\Object\Flyweight\obj\Debug\net7.0\ref\Flyweight.dll
