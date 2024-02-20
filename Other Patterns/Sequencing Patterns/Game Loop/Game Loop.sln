@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight", "..\..\..\Struc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "..\..\..\Structure Patterns\Object\Proxy\Proxy.csproj", "{11CA0179-386D-4DE0-9848-44E8214265A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype 2", "..\..\..\Creational Patterns\Object\Prototype\Prototype 2\Prototype 2.csproj", "{3145B2CF-BBFF-4063-827A-5D24A95BDD74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype 1", "..\..\..\Creational Patterns\Object\Prototype\Prototype 1\Prototype 1.csproj", "{33C0CB4C-8B23-434A-B41D-247467326696}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{11CA0179-386D-4DE0-9848-44E8214265A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11CA0179-386D-4DE0-9848-44E8214265A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11CA0179-386D-4DE0-9848-44E8214265A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3145B2CF-BBFF-4063-827A-5D24A95BDD74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3145B2CF-BBFF-4063-827A-5D24A95BDD74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3145B2CF-BBFF-4063-827A-5D24A95BDD74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3145B2CF-BBFF-4063-827A-5D24A95BDD74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33C0CB4C-8B23-434A-B41D-247467326696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33C0CB4C-8B23-434A-B41D-247467326696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33C0CB4C-8B23-434A-B41D-247467326696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33C0CB4C-8B23-434A-B41D-247467326696}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

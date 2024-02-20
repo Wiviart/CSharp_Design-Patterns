@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CSharp\\DesignPatterns\\Creational Patterns\\Object\\Prototype\\Prototype.csproj",
-      "projectName": "Prototype",
-      "projectPath": "D:\\CSharp\\DesignPatterns\\Creational Patterns\\Object\\Prototype\\Prototype.csproj",
+      "projectUniqueName": "D:\\CSharp\\DesignPatterns\\Creational Patterns\\Object\\Prototype\\Prototype 1\\Prototype 1.csproj",
+      "projectName": "Prototype 1",
+      "projectPath": "D:\\CSharp\\DesignPatterns\\Creational Patterns\\Object\\Prototype\\Prototype 1\\Prototype 1.csproj",
       "packagesPath": "C:\\Users\\phamh\\.nuget\\packages\\",
-      "outputPath": "D:\\CSharp\\DesignPatterns\\Creational Patterns\\Object\\Prototype\\obj\\",
+      "outputPath": "D:\\CSharp\\DesignPatterns\\Creational Patterns\\Object\\Prototype\\Prototype 1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\phamh\\AppData\\Roaming\\NuGet\\NuGet.Config"
