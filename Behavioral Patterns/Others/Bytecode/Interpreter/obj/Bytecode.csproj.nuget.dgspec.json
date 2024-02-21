@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSharp\\DesignPatterns\\Behavioral Patterns\\Bytecode\\Bytecode.csproj": {}
+    "D:\\CSharp\\DesignPatterns\\Behavioral Patterns\\Others\\Bytecode\\Interpreter\\Bytecode.csproj": {}
   },
   "projects": {
-    "D:\\CSharp\\DesignPatterns\\Behavioral Patterns\\Bytecode\\Bytecode.csproj": {
+    "D:\\CSharp\\DesignPatterns\\Behavioral Patterns\\Others\\Bytecode\\Interpreter\\Bytecode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSharp\\DesignPatterns\\Behavioral Patterns\\Bytecode\\Bytecode.csproj",
+        "projectUniqueName": "D:\\CSharp\\DesignPatterns\\Behavioral Patterns\\Others\\Bytecode\\Interpreter\\Bytecode.csproj",
         "projectName": "Bytecode",
-        "projectPath": "D:\\CSharp\\DesignPatterns\\Behavioral Patterns\\Bytecode\\Bytecode.csproj",
+        "projectPath": "D:\\CSharp\\DesignPatterns\\Behavioral Patterns\\Others\\Bytecode\\Interpreter\\Bytecode.csproj",
         "packagesPath": "C:\\Users\\phamh\\.nuget\\packages\\",
-        "outputPath": "D:\\CSharp\\DesignPatterns\\Behavioral Patterns\\Bytecode\\obj\\",
+        "outputPath": "D:\\CSharp\\DesignPatterns\\Behavioral Patterns\\Others\\Bytecode\\Interpreter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\phamh\\AppData\\Roaming\\NuGet\\NuGet.Config"

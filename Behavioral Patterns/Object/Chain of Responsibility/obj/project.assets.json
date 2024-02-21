@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CSharp\\DesignPatterns\\Behavioral Patterns\\Others\\Bytecode\\Interpreter\\Bytecode.csproj",
-      "projectName": "Bytecode",
-      "projectPath": "D:\\CSharp\\DesignPatterns\\Behavioral Patterns\\Others\\Bytecode\\Interpreter\\Bytecode.csproj",
+      "projectUniqueName": "D:\\CSharp\\DesignPatterns\\Behavioral Patterns\\Object\\Chain of Responsibility\\Chain of Responsibility.csproj",
+      "projectName": "Chain of Responsibility",
+      "projectPath": "D:\\CSharp\\DesignPatterns\\Behavioral Patterns\\Object\\Chain of Responsibility\\Chain of Responsibility.csproj",
       "packagesPath": "C:\\Users\\phamh\\.nuget\\packages\\",
-      "outputPath": "D:\\CSharp\\DesignPatterns\\Behavioral Patterns\\Others\\Bytecode\\Interpreter\\obj\\",
+      "outputPath": "D:\\CSharp\\DesignPatterns\\Behavioral Patterns\\Object\\Chain of Responsibility\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\phamh\\AppData\\Roaming\\NuGet\\NuGet.Config"

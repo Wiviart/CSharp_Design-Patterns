@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CSharp\\DesignPatterns\\Behavioral Patterns\\Subclass Sandbox\\Subclass Sandbox.csproj",
+      "projectUniqueName": "D:\\CSharp\\DesignPatterns\\Behavioral Patterns\\Others\\Subclass Sandbox\\Subclass Sandbox.csproj",
       "projectName": "Subclass Sandbox",
-      "projectPath": "D:\\CSharp\\DesignPatterns\\Behavioral Patterns\\Subclass Sandbox\\Subclass Sandbox.csproj",
+      "projectPath": "D:\\CSharp\\DesignPatterns\\Behavioral Patterns\\Others\\Subclass Sandbox\\Subclass Sandbox.csproj",
       "packagesPath": "C:\\Users\\phamh\\.nuget\\packages\\",
-      "outputPath": "D:\\CSharp\\DesignPatterns\\Behavioral Patterns\\Subclass Sandbox\\obj\\",
+      "outputPath": "D:\\CSharp\\DesignPatterns\\Behavioral Patterns\\Others\\Subclass Sandbox\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\phamh\\AppData\\Roaming\\NuGet\\NuGet.Config"
