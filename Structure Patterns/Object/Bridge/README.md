@@ -4,7 +4,7 @@ Decouple an abstraction from its implementation so that the two can vary indepen
 ## Applicability
 Use the Bridge pattern when
 
-• you want to avoid a permanent binding between an abstraction and itsimplementation. This might be the case,for example,when the implementation
+• you want to avoid a permanent binding between an abstraction and its implementation. This might be the case,for example, when the implementation
 must be selected or switched at run-time.
 
 • both the abstractions and their implementations should be extensible by
@@ -14,17 +14,17 @@ abstractions and implementations and extend them independently.
 • changes in the implementation of an abstraction should have no impact on
 clients; that is, their code should not have to be recompiled.
 
-• (C++) youwant tohide theimplementation ofanabstraction completely from
+• (C++) you want to hide the implementation of an abstraction completely from
 clients. In C++ the representation of a class is visible in the class interface.
 
 • you have a proliferation of classes as shown earlier in the first Motivation
-diagram. Such a class hierarchy indicates the need forsplitting an object into
+diagram. Such a class hierarchy indicates the need for splitting an object into
 two parts. Rumbaugh uses the term "nested generalizations" [RBP+91] to
-refer to such classhierarchies.
+refer to such class hierarchies.
 
-• youwant toshare animplementationamongmultiple objects(perhaps using
-reference counting), and this fact should be hidden from the client.A simple
-example isCoplien's String class [Cop92], in which multiple objects can share
+• you want to share an implementation among multiple objects (perhaps using
+reference counting), and this fact should be hidden from the client. A simple
+example is Coplien's String class [Cop92], in which multiple objects can share
 the same string representation (StringRep).
 
 ![alt text](image.png)

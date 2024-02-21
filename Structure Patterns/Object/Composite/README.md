@@ -4,9 +4,11 @@ Compose objects into tree structures to represent part-whole hierarchies. Compos
 
 ## Applicability
 Use the Composite pattern when
+
 • you want to represent part-whole hierarchies ofobjects.
-• you want clients to be able to ignore the difference between compositionsof
-objects and individual objects.Clients will treat all objectsin the composite
+
+• you want clients to be able to ignore the difference between compositions of
+objects and individual objects. Clients will treat all objectsin the composite
 structure uniformly.
 
 ![alt text](image.png)
