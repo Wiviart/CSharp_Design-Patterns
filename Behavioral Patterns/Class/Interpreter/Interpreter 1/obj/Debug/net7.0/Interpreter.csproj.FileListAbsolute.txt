@@ -1,0 +1,14 @@
+D:\CSharp\DesignPatterns\Behavioral Patterns\Class\Interpreter\bin\Debug\net7.0\Interpreter.exe
+D:\CSharp\DesignPatterns\Behavioral Patterns\Class\Interpreter\bin\Debug\net7.0\Interpreter.deps.json
+D:\CSharp\DesignPatterns\Behavioral Patterns\Class\Interpreter\bin\Debug\net7.0\Interpreter.runtimeconfig.json
+D:\CSharp\DesignPatterns\Behavioral Patterns\Class\Interpreter\bin\Debug\net7.0\Interpreter.dll
+D:\CSharp\DesignPatterns\Behavioral Patterns\Class\Interpreter\bin\Debug\net7.0\Interpreter.pdb
+D:\CSharp\DesignPatterns\Behavioral Patterns\Class\Interpreter\obj\Debug\net7.0\Interpreter.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\DesignPatterns\Behavioral Patterns\Class\Interpreter\obj\Debug\net7.0\Interpreter.AssemblyInfoInputs.cache
+D:\CSharp\DesignPatterns\Behavioral Patterns\Class\Interpreter\obj\Debug\net7.0\Interpreter.AssemblyInfo.cs
+D:\CSharp\DesignPatterns\Behavioral Patterns\Class\Interpreter\obj\Debug\net7.0\Interpreter.csproj.CoreCompileInputs.cache
+D:\CSharp\DesignPatterns\Behavioral Patterns\Class\Interpreter\obj\Debug\net7.0\Interpreter.dll
+D:\CSharp\DesignPatterns\Behavioral Patterns\Class\Interpreter\obj\Debug\net7.0\refint\Interpreter.dll
+D:\CSharp\DesignPatterns\Behavioral Patterns\Class\Interpreter\obj\Debug\net7.0\Interpreter.pdb
+D:\CSharp\DesignPatterns\Behavioral Patterns\Class\Interpreter\obj\Debug\net7.0\Interpreter.genruntimeconfig.cache
+D:\CSharp\DesignPatterns\Behavioral Patterns\Class\Interpreter\obj\Debug\net7.0\ref\Interpreter.dll
