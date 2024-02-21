@@ -1,0 +1,14 @@
+D:\CSharp\DesignPatterns\Behavioral Patterns\Object\Command\bin\Debug\net7.0\Command.exe
+D:\CSharp\DesignPatterns\Behavioral Patterns\Object\Command\bin\Debug\net7.0\Command.deps.json
+D:\CSharp\DesignPatterns\Behavioral Patterns\Object\Command\bin\Debug\net7.0\Command.runtimeconfig.json
+D:\CSharp\DesignPatterns\Behavioral Patterns\Object\Command\bin\Debug\net7.0\Command.dll
+D:\CSharp\DesignPatterns\Behavioral Patterns\Object\Command\bin\Debug\net7.0\Command.pdb
+D:\CSharp\DesignPatterns\Behavioral Patterns\Object\Command\obj\Debug\net7.0\Command.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\DesignPatterns\Behavioral Patterns\Object\Command\obj\Debug\net7.0\Command.AssemblyInfoInputs.cache
+D:\CSharp\DesignPatterns\Behavioral Patterns\Object\Command\obj\Debug\net7.0\Command.AssemblyInfo.cs
+D:\CSharp\DesignPatterns\Behavioral Patterns\Object\Command\obj\Debug\net7.0\Command.csproj.CoreCompileInputs.cache
+D:\CSharp\DesignPatterns\Behavioral Patterns\Object\Command\obj\Debug\net7.0\Command.dll
+D:\CSharp\DesignPatterns\Behavioral Patterns\Object\Command\obj\Debug\net7.0\refint\Command.dll
+D:\CSharp\DesignPatterns\Behavioral Patterns\Object\Command\obj\Debug\net7.0\Command.pdb
+D:\CSharp\DesignPatterns\Behavioral Patterns\Object\Command\obj\Debug\net7.0\Command.genruntimeconfig.cache
+D:\CSharp\DesignPatterns\Behavioral Patterns\Object\Command\obj\Debug\net7.0\ref\Command.dll
