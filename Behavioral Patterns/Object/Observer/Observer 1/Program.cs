@@ -1,4 +1,5 @@
-﻿class Observer
+﻿using System.Threading;
+class Observer
 {
     protected string name;
 
@@ -16,12 +17,12 @@ class ConcreteObserver : Observer
     Observer observerState = null;
     public ConcreteObserver(string name) : base(name)
     {
-        Console.WriteLine("Concrete Observer " + name);
+        Console.WriteLine($"Concrete Observer {name}");
     }
     public override void Update(Subject subject)
     {
         observerState = subject.GetState();
-        Console.WriteLine($"Concrete Observer {observerState.GetName()} Update");
+        Console.WriteLine($"Concrete Observer {name} Update");
     }
 }
 
@@ -74,11 +75,17 @@ class Program
     static void Main()
     {
         Subject s = new ConcreteSubject();
-        Observer o1 = new ConcreteObserver("Observer1");
-        Observer o2 = new ConcreteObserver("Observer2");
+        Observer o1 = new ConcreteObserver("Observer 1");
+        Observer o2 = new ConcreteObserver("Observer 2");
         s.Attach(o1);
         s.Attach(o2);
-        s.SetState(o1);
-        s.Notify();
+        s.SetState(o2);
+
+        while (true)
+        {
+            Console.WriteLine("Subject State: " + s.GetState().GetName());
+            s.Notify();
+            Thread.Sleep(1000);
+        }
     }
 }
