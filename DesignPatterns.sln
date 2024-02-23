@@ -143,6 +143,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Proxy", "Proxy", "{03597192
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Proxy 1", "Structure Patterns\Object\Proxy\Proxy 1\Proxy 1.csproj", "{5AD95B50-80D4-4711-9107-85F9AD509BC7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chain of Responsibility 2", "Behavioral Patterns\Object\Chain of Responsibility\Chain of Responsibility 2\Chain of Responsibility 2.csproj", "{0CFF9C9D-14F6-40BE-9C78-5CAB51A2020F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -289,6 +291,10 @@ Global
 		{5AD95B50-80D4-4711-9107-85F9AD509BC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5AD95B50-80D4-4711-9107-85F9AD509BC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5AD95B50-80D4-4711-9107-85F9AD509BC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CFF9C9D-14F6-40BE-9C78-5CAB51A2020F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CFF9C9D-14F6-40BE-9C78-5CAB51A2020F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CFF9C9D-14F6-40BE-9C78-5CAB51A2020F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CFF9C9D-14F6-40BE-9C78-5CAB51A2020F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -360,6 +366,7 @@ Global
 		{D951F558-0B92-4610-ADBE-F61995E036B6} = {E5640E86-4597-4239-93B7-403FADD47FE6}
 		{03597192-2CE3-4AC2-A5CA-14E010E26539} = {071DDC01-98EB-4FBC-BDE4-61819360B1D8}
 		{5AD95B50-80D4-4711-9107-85F9AD509BC7} = {03597192-2CE3-4AC2-A5CA-14E010E26539}
+		{0CFF9C9D-14F6-40BE-9C78-5CAB51A2020F} = {EF527A0C-9796-4F8B-83EF-7E60609B9923}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D4A55B79-D1C0-460B-9316-2D70EC1CC486}
