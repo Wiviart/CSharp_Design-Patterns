@@ -1,0 +1,14 @@
+D:\CSharp\DesignPatterns\Behavioral Patterns\Class\Template Method\Template Method 1\bin\Debug\net7.0\Template Method 1.exe
+D:\CSharp\DesignPatterns\Behavioral Patterns\Class\Template Method\Template Method 1\bin\Debug\net7.0\Template Method 1.deps.json
+D:\CSharp\DesignPatterns\Behavioral Patterns\Class\Template Method\Template Method 1\bin\Debug\net7.0\Template Method 1.runtimeconfig.json
+D:\CSharp\DesignPatterns\Behavioral Patterns\Class\Template Method\Template Method 1\bin\Debug\net7.0\Template Method 1.dll
+D:\CSharp\DesignPatterns\Behavioral Patterns\Class\Template Method\Template Method 1\bin\Debug\net7.0\Template Method 1.pdb
+D:\CSharp\DesignPatterns\Behavioral Patterns\Class\Template Method\Template Method 1\obj\Debug\net7.0\Template Method 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\DesignPatterns\Behavioral Patterns\Class\Template Method\Template Method 1\obj\Debug\net7.0\Template Method 1.AssemblyInfoInputs.cache
+D:\CSharp\DesignPatterns\Behavioral Patterns\Class\Template Method\Template Method 1\obj\Debug\net7.0\Template Method 1.AssemblyInfo.cs
+D:\CSharp\DesignPatterns\Behavioral Patterns\Class\Template Method\Template Method 1\obj\Debug\net7.0\Template Method 1.csproj.CoreCompileInputs.cache
+D:\CSharp\DesignPatterns\Behavioral Patterns\Class\Template Method\Template Method 1\obj\Debug\net7.0\Template Method 1.dll
+D:\CSharp\DesignPatterns\Behavioral Patterns\Class\Template Method\Template Method 1\obj\Debug\net7.0\refint\Template Method 1.dll
+D:\CSharp\DesignPatterns\Behavioral Patterns\Class\Template Method\Template Method 1\obj\Debug\net7.0\Template Method 1.pdb
+D:\CSharp\DesignPatterns\Behavioral Patterns\Class\Template Method\Template Method 1\obj\Debug\net7.0\Template Method 1.genruntimeconfig.cache
+D:\CSharp\DesignPatterns\Behavioral Patterns\Class\Template Method\Template Method 1\obj\Debug\net7.0\ref\Template Method 1.dll
