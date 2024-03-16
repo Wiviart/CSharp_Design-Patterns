@@ -1,11 +1,8 @@
 class Door : MapSite
 {
-
-    private Room _room1;
-    private Room _room2;
+    private Room? _room1;
+    private Room? _room2;
     private bool _isOpen;
-
-    public Door() { }
 
     public virtual void Initialize(Room room1, Room room2)
     {
