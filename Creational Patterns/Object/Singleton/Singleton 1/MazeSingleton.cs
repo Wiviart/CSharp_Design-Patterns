@@ -1,6 +1,6 @@
 class MazeSingleton : Singleton<MazeSingleton>
 {
-    public override void Enter()
+    public void Enter()
     {
         Console.WriteLine("Entering maze with singleton...");
     }
